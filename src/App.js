@@ -21,7 +21,7 @@ function App() {
     <div className="App">
     
       <Header/> 
-      <h1>john's meme gen title</h1>
+      <h1>john's meme gen title changed on new branch</h1>
       <MemeGenerator />
          
     </div>
